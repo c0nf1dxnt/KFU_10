@@ -1,0 +1,6 @@
+D:\Code\kfuHomework\18.11.2023\homework18112023\Builds\BuildingFactory\BuildingFactory\bin\Debug\BuildingFactory.dll
+D:\Code\kfuHomework\18.11.2023\homework18112023\Builds\BuildingFactory\BuildingFactory\bin\Debug\BuildingFactory.pdb
+D:\Code\kfuHomework\18.11.2023\homework18112023\Builds\BuildingFactory\BuildingFactory\obj\Debug\BuildingFactory.csproj.AssemblyReference.cache
+D:\Code\kfuHomework\18.11.2023\homework18112023\Builds\BuildingFactory\BuildingFactory\obj\Debug\BuildingFactory.csproj.CoreCompileInputs.cache
+D:\Code\kfuHomework\18.11.2023\homework18112023\Builds\BuildingFactory\BuildingFactory\obj\Debug\BuildingFactory.dll
+D:\Code\kfuHomework\18.11.2023\homework18112023\Builds\BuildingFactory\BuildingFactory\obj\Debug\BuildingFactory.pdb

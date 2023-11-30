@@ -1,0 +1,6 @@
+D:\Code\kfuHomework\18.11.2023\homework18112023\Builds\BankLibrary\BankLibrary\bin\Debug\BankLibrary.dll
+D:\Code\kfuHomework\18.11.2023\homework18112023\Builds\BankLibrary\BankLibrary\bin\Debug\BankLibrary.pdb
+D:\Code\kfuHomework\18.11.2023\homework18112023\Builds\BankLibrary\BankLibrary\obj\Debug\BankLibrary.csproj.AssemblyReference.cache
+D:\Code\kfuHomework\18.11.2023\homework18112023\Builds\BankLibrary\BankLibrary\obj\Debug\BankLibrary.csproj.CoreCompileInputs.cache
+D:\Code\kfuHomework\18.11.2023\homework18112023\Builds\BankLibrary\BankLibrary\obj\Debug\BankLibrary.dll
+D:\Code\kfuHomework\18.11.2023\homework18112023\Builds\BankLibrary\BankLibrary\obj\Debug\BankLibrary.pdb

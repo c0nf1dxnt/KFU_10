@@ -1,0 +1,8 @@
+D:\Code\kfuHomework\18.11.2023\homework18112023\Part1\obj\Debug\Part1.csproj.AssemblyReference.cache
+D:\Code\kfuHomework\18.11.2023\homework18112023\Part1\obj\Debug\Part1.csproj.CoreCompileInputs.cache
+D:\Code\kfuHomework\18.11.2023\homework18112023\Part1\bin\Debug\Part1.exe.config
+D:\Code\kfuHomework\18.11.2023\homework18112023\Part1\bin\Debug\Part1.exe
+D:\Code\kfuHomework\18.11.2023\homework18112023\Part1\bin\Debug\Part1.pdb
+D:\Code\kfuHomework\18.11.2023\homework18112023\Part1\obj\Debug\Part1.exe
+D:\Code\kfuHomework\18.11.2023\homework18112023\Part1\obj\Debug\Part1.pdb
+D:\Code\kfuHomework\18.11.2023\homework18112023\Part1\obj\Debug\Part1.csproj.CopyComplete
